@@ -39,7 +39,7 @@ Modellizzare la struttura di un database per memorizzare tutti i dati riguardant
 - id
 - materia
 - dipartimenti_id
-- studenti_matricola
+- studenti_id
 
 
 ### corsi
